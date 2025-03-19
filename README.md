@@ -2,9 +2,9 @@
 
 Doido por tecnologia, música, carro, moto e qualquer coisa que fuja do comum.
 
--  Estudante Técnico em Desenvolvimento de Sistemad IFPI (Instituto Federal do Piauí)
+-  Estudante Técnico em Desenvolvimento de Sistemas IFPI (Instituto Federal do Piauí)
 
-## Dados
+## 🎲 Dados
 
  <div>
    <a href="https://github.com/pedroarthurfa08">
@@ -21,7 +21,8 @@ Doido por tecnologia, música, carro, moto e qualquer coisa que fuja do comum.
 </div>
  
 <br>
- 
+
+ ## 🤖 Onde me encontrar:
 <div> 
   <a href="https://instagram.com/pedroarthur_fa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/pedroarthur_fa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
