@@ -1,4 +1,4 @@
-# 💥 Olá! Eu sou o Pedro Arthur 🙋‍♂️
+# 💥 Opaa! Eu sou o Pedro Arthur 🙋‍♂️
 
 Doido por tecnologia, música, carro, moto e qualquer coisa que fuja do comum.
 
