@@ -2,7 +2,8 @@
 
 Doido por tecnologia, música, carro, moto e qualquer coisa que fuja do comum.
 
--  Estudante Técnico em Desenvolvimento de Sistemas IFPI (Instituto Federal do Piauí)
+-  Estudante Técnico em Desenvolvimento de Sistemas pelo IFPI (Instituto Federal do Piauí) (3/3)
+-  Futuramente Graduando em Gestão de Dados pela UFPI (Univeersidade Federal do Piauí) (0/6)
 
 ## 🎲 Dados
 
