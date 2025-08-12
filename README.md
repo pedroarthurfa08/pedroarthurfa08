@@ -18,7 +18,7 @@
 | Curso | Instituição | Status | Período |
 |-------|-------------|--------|---------|
 | 🎓 **Técnico em Desenvolvimento de Sistemas** | IFPI | ✅ **Concluído** | 2023-2024 |
-| 🎓 **Gestão de Dados** | UFPI | 🔜 **Em breve** | 2025-2028 |
+| 🎓 **Gestão de Dados** | UFPI | 🔜 **Em andamento** | 2025-2028 |
 
 </div>
 
